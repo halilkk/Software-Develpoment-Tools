@@ -1,1 +1,3 @@
-﻿  Homework.vcxproj -> C:\Users\hkoke\Documents\GitHub\Software-Develpoment-Tools\Homework\x64\Debug\Homework.exe
+﻿  main.cpp
+C:\Users\hkoke\Documents\GitHub\Software-Develpoment-Tools\Homework\Homework\main.cpp(32,25): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Homework.vcxproj -> C:\Users\hkoke\Documents\GitHub\Software-Develpoment-Tools\Homework\x64\Debug\Homework.exe

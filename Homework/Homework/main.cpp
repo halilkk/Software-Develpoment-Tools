@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 
-
+//a
 
 void printArray(int arr[], int size) {
     for (int i = 0; i < size; ++i) {
